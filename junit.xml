@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="" tests="8" assertions="8" errors="0" failures="0" skipped="0" time="0.180067">
+    <testsuite name="Feature" tests="7" assertions="7" errors="0" failures="0" skipped="0" time="0.172398">
+      <testsuite name="Tests\Feature\ChristmasGreetingTest" file="C:\Users\etrupa\Projects\training\tests\Feature\ChristmasGreetingTest.php" tests="2" assertions="2" errors="0" failures="0" skipped="0" time="0.099847">
+        <testcase name="christMasGreeting_idol_idolChristmasGreeting" class="Tests\Feature\ChristmasGreetingTest" classname="Tests.Feature.ChristmasGreetingTest" file="C:\Users\etrupa\Projects\training\tests\Feature\ChristmasGreetingTest.php" line="20" assertions="1" time="0.091462"/>
+        <testcase name="christmasGreetingChainHappyNewYear_idol_idolChristmasGreeting" class="Tests\Feature\ChristmasGreetingTest" classname="Tests.Feature.ChristmasGreetingTest" file="C:\Users\etrupa\Projects\training\tests\Feature\ChristmasGreetingTest.php" line="37" assertions="1" time="0.008385"/>
+      </testsuite>
+      <testsuite name="Tests\Feature\ConcatDecoratorTest" file="C:\Users\etrupa\Projects\training\tests\Feature\ConcatDecoratorTest.php" tests="1" assertions="1" errors="0" failures="0" skipped="0" time="0.008695">
+        <testcase name="reverseStringWithAddionalText_lodi_AdditionalText" class="Tests\Feature\ConcatDecoratorTest" classname="Tests.Feature.ConcatDecoratorTest" file="C:\Users\etrupa\Projects\training\tests\Feature\ConcatDecoratorTest.php" line="16" assertions="1" time="0.008695"/>
+      </testsuite>
+      <testsuite name="Tests\Feature\ExampleTest" file="C:\Users\etrupa\Projects\training\tests\Feature\ExampleTest.php" tests="1" assertions="1" errors="0" failures="0" skipped="0" time="0.040531">
+        <testcase name="testBasicTest" class="Tests\Feature\ExampleTest" classname="Tests.Feature.ExampleTest" file="C:\Users\etrupa\Projects\training\tests\Feature\ExampleTest.php" line="15" assertions="1" time="0.040531"/>
+      </testsuite>
+      <testsuite name="Tests\Feature\NewYearGreetingTest" file="C:\Users\etrupa\Projects\training\tests\Feature\NewYearGreetingTest.php" tests="2" assertions="2" errors="0" failures="0" skipped="0" time="0.015749">
+        <testcase name="newYearGreeting_nameMoreThan15char_idolNewYearGreeting" class="Tests\Feature\NewYearGreetingTest" classname="Tests.Feature.NewYearGreetingTest" file="C:\Users\etrupa\Projects\training\tests\Feature\NewYearGreetingTest.php" line="19" assertions="1" time="0.008198"/>
+        <testcase name="newYearGreetingChainChristMas_nameMoreThan15char_idolNewYearGreeting" class="Tests\Feature\NewYearGreetingTest" classname="Tests.Feature.NewYearGreetingTest" file="C:\Users\etrupa\Projects\training\tests\Feature\NewYearGreetingTest.php" line="34" assertions="1" time="0.007551"/>
+      </testsuite>
+      <testsuite name="Tests\Feature\ReverseBehaviourTest" file="C:\Users\etrupa\Projects\training\tests\Feature\ReverseBehaviourTest.php" tests="1" assertions="1" errors="0" failures="0" skipped="0" time="0.007576">
+        <testcase name="reverseString_idol_lodi" class="Tests\Feature\ReverseBehaviourTest" classname="Tests.Feature.ReverseBehaviourTest" file="C:\Users\etrupa\Projects\training\tests\Feature\ReverseBehaviourTest.php" line="13" assertions="1" time="0.007576"/>
+      </testsuite>
+    </testsuite>
+    <testsuite name="Unit" tests="1" assertions="1" errors="0" failures="0" skipped="0" time="0.007669">
+      <testsuite name="Tests\Unit\ExampleTest" file="C:\Users\etrupa\Projects\training\tests\Unit\ExampleTest.php" tests="1" assertions="1" errors="0" failures="0" skipped="0" time="0.007669">
+        <testcase name="testBasicTest" class="Tests\Unit\ExampleTest" classname="Tests.Unit.ExampleTest" file="C:\Users\etrupa\Projects\training\tests\Unit\ExampleTest.php" line="15" assertions="1" time="0.007669"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testsuites>
